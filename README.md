@@ -55,6 +55,8 @@ The system:
 
 ---
 
+
+
 ## 🧠 System Workflow
 
 1. **Data Collection**
@@ -68,15 +70,24 @@ The system:
    * Stopword removal
    * Vectorization using CountVectorizer
 
+
+<img width="495" height="272" alt="image" src="https://github.com/user-attachments/assets/73c9693d-b479-4ff0-8f59-273d6d77098a" />
+
 3. **Model Training**
 
    * Multiple ML models trained and evaluated
    * Model comparison to select best performer
+   * <img width="485" height="281" alt="image" src="https://github.com/user-attachments/assets/9dc293de-759f-4a6d-ade6-af6ef008caba" />
+   <img width="488" height="272" alt="image" src="https://github.com/user-attachments/assets/4215ccf0-522b-4065-89d8-7cc67aad7b1c" />
+
+
 
 4. **Prediction & Output**
 
    * Email classified as *Phishing* or *Legitimate*
    * Results visualized and exported (PDF)
+   * <img width="496" height="271" alt="image" src="https://github.com/user-attachments/assets/e44be5e5-4fe5-4696-81dd-130770668c50" />
+
 
 ---
 
